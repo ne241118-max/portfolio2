@@ -253,3 +253,26 @@ footer{
   }
 
 }
+
+.project-link {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 12px 22px;
+  color: #ffffff;
+  background-color: #46735c;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-link:hover {
+  opacity: 0.85;
+}
+
+#complete ol {
+  padding-left: 24px;
+}
+
+#complete li {
+  margin-bottom: 10px;
+}
