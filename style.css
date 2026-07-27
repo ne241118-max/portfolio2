@@ -437,3 +437,56 @@ footer{
     padding: 15px 17px;
   }
 }
+
+.feedback-box {
+  margin: 18px 0;
+  padding: 18px 22px;
+  background-color: #f4f8f1;
+  border-left: 5px solid #6f8f61;
+  border-radius: 4px;
+}
+
+.feedback-box p {
+  margin: 0;
+  line-height: 1.9;
+}
+
+#complete .portfolio-image {
+  display: block;
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#complete .portfolio-figure {
+  margin: 30px 0;
+  text-align: center;
+}
+
+#complete .portfolio-figure figcaption {
+  margin-top: 12px;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+#complete .content-block {
+  margin-bottom: 70px;
+}
+
+#complete .work-item {
+  margin: 30px 0;
+  padding: 22px;
+  background-color: #fafafa;
+  border-radius: 8px;
+}
+
+#complete .result-list,
+#complete .flow-list {
+  line-height: 2;
+}
+
+#complete .project-title {
+  margin-bottom: 28px;
+  color: #56734b;
+}
